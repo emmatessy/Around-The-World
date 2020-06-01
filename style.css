@@ -671,7 +671,7 @@ html{
 	}
 
 	.nav-link{
-		flex-grow: ;
+		flex-grow: 1;
 	}
 
 	.header-text{
